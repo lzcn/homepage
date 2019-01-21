@@ -41,7 +41,7 @@ section_pager = false
 
 # Enable global LaTeX math rendering?
 #   If false, you can enable it locally on a per page basis.
-math = false
+math = true
 
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
@@ -61,19 +61,19 @@ privacy_pack = false
 gravatar = false
 
 # Contact Widget setup
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  # email = "test@example.org"
+  # address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-  office_hours = """Monday 10:00 to 13:00<br>
-                    Wednesday 09:00 to 10:00<br>
-                    Otherwise email to book an appointment"""
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
-  keybase = ""  # Your keybase.io username.
+  # office_hours = """Monday 10:00 to 13:00<br>
+                    # Wednesday 09:00 to 10:00<br>
+                    # Otherwise email to book an appointment"""
+  # phone = "888 888 88 88"
+  # skype = "echo123"
+  # telegram = ""
+  # keybase = ""  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
-  appointment_url = ""
+  # appointment_url = ""
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
@@ -94,11 +94,11 @@ gravatar = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
-  map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
-  zoom = 15
+  # map = 0
+  # map_api_key = ""
+  # latitude = "37.4275"
+  # longitude = "-122.1697"
+  # zoom = 15
 
 # Publication types.
 #   Used to categorize publications.
@@ -153,7 +153,7 @@ custom_js  = []
   #   2 = APA
   #   3 = MLA
   #   4 = Stream
-  publication_format = 4
+  publication_format = 3
 
   # Talk list format.
   #   0 = Simple
