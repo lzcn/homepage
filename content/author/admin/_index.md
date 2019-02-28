@@ -88,9 +88,11 @@ email = "zhilu@std.uestc.edu.cn"
 
 +++
 
-I am a first-year PhD student in University Of Electronic Science And Technology Of China (**UESTC**), Chengdu, P.R. China. I am supervised by [Prof. Bing Zeng](http://www.ee.ust.hk/~eezeng/) and daily supervised by [Prof. Yan Chen](https://scholar.google.com.hk/citations?user=MVOCn1AAAAAJ&hl=en) and Assoc. Prof. Yang Hu. I obtained my Meng and BSc bnoth in UESTC.
+I am a first-year PhD student in University Of Electronic Science And Technology Of China (**UESTC**), Chengdu, P.R. China.
+I am currently supervised by [Prof. Bing Zeng](http://www.ee.ust.hk/~eezeng/) and 
+daily supervised by [Prof. Yan Chen](https://scholar.google.com.hk/citations?user=MVOCn1AAAAAJ&hl=en) and Assoc. Prof. Yang Hu. I obtained my MEng and BSc bnoth in UESTC.
 
 My research speciality is **Recommendation System** and **Computer Version**. The main focus of my current work include:
 
-- Personalized recommendation system with fashion-relevant applications. 
+- Fashion-related recommendation.
 - Hashing and fast retrieval.
